@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fastadapter_id_TvShow" type="id" />
+    <item name="fastadapter_id_Episode" type="id" />
+    <item name="fastadapter_id_Episode_SubItem" type="id" />
+    <item name="fastadapter_id_castCrewMember" type="id" />
+    <item name="fastadapter_id_footerNextPage" type="id" />
+</resources>
